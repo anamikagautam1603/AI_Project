@@ -3,9 +3,9 @@
 This Python Tic Tac Toe game includes an AI opponent using the Minimax algorithm with alpha-beta pruning for enhanced performance.
 
 ## Features
-     Play against a human or AI.
-     Choose AI difficulty levels.
-     Simple user interface.
+   -  Play against a human or AI.
+   -  Choose AI difficulty levels.
+   -  Simple user interface.
 
 ## Requirements
 
@@ -27,13 +27,13 @@ This Python Tic Tac Toe game includes an AI opponent using the Minimax algorithm
 
 ## Gameplay
 
-      Play against a human by entering positions.
+     - Play against a human by entering positions.
     
-      Play against AI by selecting difficulty (easy, medium, hard).
+     - Play against AI by selecting difficulty (easy, medium, hard).
 
 ## AI Algorithms
 
-    * AI uses Minimax with alpha-beta pruning:
+     AI uses Minimax with alpha-beta pruning:
     
       Easy: Random moves.    
       Medium: Limited lookahead.    
