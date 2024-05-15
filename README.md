@@ -13,26 +13,32 @@ This Python Tic Tac Toe game includes an AI opponent using the Minimax algorithm
 ## Installation
 
    1. Clone the repository:
-    - git@github.com:anamikagautam1603/AI_Project.git
+      
+     `git@github.com:anamikagautam1603/AI_Project.git`
 
    2. Navigate to the project directory:
+    
     - cd tic-tac
 
    3. Run the Python script:
+      
     - python tic_tac_toe.py
 
 ## Gameplay
     - Play against a human by entering positions.
+    
     - Play against AI by selecting difficulty (easy, medium, hard).
 
 ## AI Algorithms
+
     - AI uses Minimax with alpha-beta pruning:
-    - Easy: Random moves.
-    - Medium: Limited lookahead.
+    
+    - Easy: Random moves.    
+    - Medium: Limited lookahead.    
     - Hard: Optimal moves.
 
 ## Contributing
     - Contributions welcome! Fork the repository and create a pull request.
 
 ## License
-    ### MIT License see LICENSE file.
+     - MIT License - see LICENSE file.
