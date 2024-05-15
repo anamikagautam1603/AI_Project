@@ -13,7 +13,7 @@ This Python Tic Tac Toe game includes an AI opponent using the Minimax algorithm
 ## Installation
 
    1. Clone the repository:
-    - git clone https://github.com/SanjanaSingh1818/AI_Project.git
+    - git@github.com:anamikagautam1603/AI_Project.git
 
    2. Navigate to the project directory:
     - cd tic-tac
@@ -35,4 +35,4 @@ This Python Tic Tac Toe game includes an AI opponent using the Minimax algorithm
     - Contributions welcome! Fork the repository and create a pull request.
 
 ## License
-    - MIT License - see LICENSE file.
+    ### MIT License see LICENSE file.
